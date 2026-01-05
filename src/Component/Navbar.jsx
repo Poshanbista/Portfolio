@@ -45,7 +45,7 @@ export default function Navbar() {
                     <a href='https://github.com/Poshanbista' target='blank' rel='noreferrer'>
                         <FiGithub size={25} />
                     </a>
-                    <a className=''>
+                    <a href='https://www.linkedin.com/in/poshan-bista-bb1064349/' target='blank' rel='noreferrer'>
                         <FaLinkedinIn size={25} />
                     </a>
                 </div>
