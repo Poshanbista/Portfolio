@@ -8,7 +8,7 @@ export default function About() {
 
 
   return (
-    <section id='about' className='pt-32 pb-10'>
+    <section id='about' className='pt-32 pb-20'>
       <div className='flex h-screen ml-6 mr-6'>
         <div className='w-1/2 h-full'>
           <p className='bg-gray-300 rounded-full inline p-1 px-2 font-semibold text-blue-500'>
